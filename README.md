@@ -6,4 +6,4 @@
 
 # Deploy:
 
-✔️ https://jquery-lista-atividades-snowy-two.vercel.app/
+✔️ https://lista-de-tarefas-jquery-gamma.vercel.app/
